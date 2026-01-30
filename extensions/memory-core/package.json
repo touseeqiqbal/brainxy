@@ -1,0 +1,17 @@
+{
+  "name": "@brainyx/memory-core",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx core memory search plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "peerDependencies": {
+    "brainyx": ">=2026.1.26"
+  },
+  "devDependencies": {
+    "brainyx": "workspace:*"
+  }
+}

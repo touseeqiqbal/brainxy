@@ -1,0 +1,11 @@
+{
+  "name": "@brainyx/slack",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx Slack channel plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

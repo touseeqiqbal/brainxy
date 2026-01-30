@@ -1,0 +1,11 @@
+{
+  "name": "@brainyx/copilot-proxy",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx Copilot Proxy provider plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

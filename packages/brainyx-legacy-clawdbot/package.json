@@ -1,0 +1,19 @@
+{
+  "name": "brainyx-legacy-clawdbot",
+  "version": "2026.1.27-beta.1",
+  "type": "module",
+  "description": "Compatibility shim that forwards to brainyx",
+  "exports": {
+    ".": "./index.js",
+    "./cli-entry": "./bin/clawdbot.js"
+  },
+  "bin": {
+    "clawdbot": "./bin/clawdbot.js"
+  },
+  "scripts": {
+    "postinstall": "node ./scripts/postinstall.js"
+  },
+  "dependencies": {
+    "brainyx": "workspace:*"
+  }
+}

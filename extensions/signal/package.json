@@ -1,0 +1,11 @@
+{
+  "name": "@brainyx/signal",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx Signal channel plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@brainyx/telegram",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx Telegram channel plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

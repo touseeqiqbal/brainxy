@@ -1,0 +1,11 @@
+{
+  "name": "@brainyx/google-gemini-cli-auth",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx Gemini CLI OAuth provider plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

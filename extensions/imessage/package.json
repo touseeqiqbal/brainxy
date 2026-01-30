@@ -1,0 +1,11 @@
+{
+  "name": "@brainyx/imessage",
+  "version": "2026.1.29",
+  "type": "module",
+  "description": "Brainyx iMessage channel plugin",
+  "brainyx": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
